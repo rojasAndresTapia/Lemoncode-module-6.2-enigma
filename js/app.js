@@ -56,6 +56,9 @@ let decrypt = () => {
   }
 };
 
+let encriptedMessage = "¡lohasconseguido!puedesvacilaratuscompaerosescribiendoporelchat:'¡soylaleche,turingflipariaconmigo!'yacontinuacionenviaunmensajecifrado,¡elquetuquieras!";
+console.log("encriptedMessage: " + encriptedMessage);
+
 // EVENTS
 decryptButtonId.addEventListener('click', handleDecryptButton);
 encryptButtonId.addEventListener('click', handleEncryptButton);
