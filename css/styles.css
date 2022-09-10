@@ -1,0 +1,17 @@
+.title {
+  text-align: center;
+  margin-top: 50px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.message {
+  display: flex;
+  flex-direction: column;
+  margin: 20px 50px 50px 50px;
+}
+.btn {
+  margin-top: 20px;
+}
